@@ -1,0 +1,76 @@
+style {
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+}
+
+body {
+    background-color: #C4D4AF;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.common {
+        padding: 10px;
+        display: inline-block;
+        vertical-align: top;
+        margin-right: 20px;
+ }
+
+.header {
+    text-align: center;
+}
+
+#edu {
+    color:#00594c
+}
+
+#exp {
+    color:#5E7232
+}
+
+.leftmenu {
+    float: left;
+    width: 20%;
+    text-align: center;
+}
+
+.resumeListHeading {
+    font-weight: bold;
+    font-size: 1.2em;
+    color: #364F28;
+}
+
+.underline {
+    text-decoration: underline;
+}
+
+.tableauPlaceholder {
+    width: 809px;
+    height: 500px;
+    margin: 0 auto;
+}
+
+iframe {
+    display: block;
+    margin: 0 auto;
+}
+
+a[href="#top"] {
+    display: block;
+    text-align: center;
+    margin: 0 auto;
+    margin-top: 20px;
+    color: #364F28;
+}
+
+h1 {
+    font-size: 2.5em;
+    text-align: center;
+    color: #364f28;
+    margin-top: 30px;
+}
+
+form {
+    width: 80%;
+    margin: 0 auto;
+}
